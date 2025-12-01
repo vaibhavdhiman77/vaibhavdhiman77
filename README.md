@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vaibhav 👋  
+### B.Tech CSE Student | Java Developer | Android Studio | Python & ML Beginner
 
-<!--
-**vaibhavdhiman77/vaibhavdhiman77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I build Android apps using **Java + Android Studio**  
+- 📊 Learning **Machine Learning & Data Analytics**  
+- 🐍 Love creating fun projects in **Python (Pygame)**  
+- 📱 Interested in **mobile app development**  
+- 💻 Passionate about coding, problem-solving & real-world projects  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- Java | Android Studio | XML  
+- Python | ML Basics | Data Analytics  
+- SQL | Git | GitHub  
+- C Programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+- Android App (Java + XML)  
+- Gold Price Prediction (Machine Learning)  
+- Snake Game (Python + Pygame)  
+
+## 📫 Connect With Me  
+**GitHub:** github.com/vaibhavdhiman77  
+**LinkedIn:** (https://www.linkedin.com/in/vaibhav-dhiman-3b0980354/)
