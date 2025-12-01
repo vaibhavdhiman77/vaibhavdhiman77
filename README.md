@@ -11,7 +11,6 @@
 - Java | Android Studio | XML  
 - Python | ML Basics | Data Analytics  
 - SQL | Git | GitHub  
-- C Programming  
 
 ## Featured Projects  
 - Android App (Java + XML)  
